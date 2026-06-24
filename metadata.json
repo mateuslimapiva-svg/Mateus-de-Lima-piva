@@ -1,0 +1,6 @@
+{
+  "name": "MU 97d Mobile",
+  "description": "Fiel replica do classico MMORPG MU Online Season 97d para mobile, offline e com geração procedural de assets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
